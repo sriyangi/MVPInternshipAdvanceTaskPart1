@@ -1,0 +1,5 @@
+D:\IC Test Analyst Program\Internship\MVPInternshipAdvanceTask\MarsQAAdvance\obj\Debug\net6.0\MarsQAAdvancePart1.csproj.AssemblyReference.cache
+D:\IC Test Analyst Program\Internship\MVPInternshipAdvanceTask\MarsQAAdvance\obj\Debug\net6.0\MarsQAAdvancePart1.GeneratedMSBuildEditorConfig.editorconfig
+D:\IC Test Analyst Program\Internship\MVPInternshipAdvanceTask\MarsQAAdvance\obj\Debug\net6.0\MarsQAAdvancePart1.AssemblyInfoInputs.cache
+D:\IC Test Analyst Program\Internship\MVPInternshipAdvanceTask\MarsQAAdvance\obj\Debug\net6.0\MarsQAAdvancePart1.AssemblyInfo.cs
+D:\IC Test Analyst Program\Internship\MVPInternshipAdvanceTask\MarsQAAdvance\obj\Debug\net6.0\MarsQAAdvancePart1.csproj.CoreCompileInputs.cache
