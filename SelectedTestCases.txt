@@ -1,0 +1,16 @@
+Advance Task1 -> User Story 1
+
+Following are the selected 5 features for manual testing from the given list:
+1/ Profile-> Availability, Hours, Earn Target
+2/ Share Skills-> Add New
+3/ Notifications-> Select & Unselect, Mark as Read, Delete
+4/ Notifications-> Mark as Read
+5/ Notifications-> Delete
+
+Advance Task1 -> User Story 2
+
+Except following all other features were tested:
+1/ Search Skills -> by All Categories, Sub Categories
+2/ Search Skills -> by Filters
+
+Justification: When user perform search operation by using any of the criteria, displayed results do not have any of the above details (filter criteria) to check the validity of the filtered records.

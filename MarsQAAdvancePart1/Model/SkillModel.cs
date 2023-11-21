@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace MarsQAAdvancePart1.Model
 {
-    internal class SkillModel
+    public class SkillModel
     {
+        public string skill { get; set; }
+        public string skillLevel { get; set; }
     }
 }

@@ -1,0 +1,16 @@
+{
+  "LanguageEditModel": [
+    {
+      "language": "French 1",
+      "languageLevel": "Native/Bilingual",
+      "oldLanguage": "French",
+      "oldLanguageLevel": "Basic"
+    },
+    {
+      "language": "Chinese 1",
+      "languageLevel": "Basic",
+      "oldLanguage": "Chinese",
+      "oldLanguageLevel": "Native/Bilingual"
+    }
+  ]
+}

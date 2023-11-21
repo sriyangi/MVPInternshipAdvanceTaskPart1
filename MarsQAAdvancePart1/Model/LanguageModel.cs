@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace MarsQAAdvancePart1.Model
 {
-    internal class LanguageModel
+    public class LanguageModel
     {
+        public string language { get; set; }
+        public string languageLevel { get; set; }
     }
 }

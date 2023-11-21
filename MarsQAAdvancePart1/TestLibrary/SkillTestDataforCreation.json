@@ -1,0 +1,12 @@
+{
+  "SkillModel": [
+    {
+      "skill": "Writing",
+      "skillLevel": "Beginner"
+    },
+    {
+      "skill": "Reading",
+      "skillLevel": "Expert"
+    }
+  ]
+}

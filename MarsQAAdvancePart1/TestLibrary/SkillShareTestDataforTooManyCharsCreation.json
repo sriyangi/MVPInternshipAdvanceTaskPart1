@@ -1,0 +1,32 @@
+{
+  "ShareSkillModel": [
+    {
+      "title": "abcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghij123",
+      "description": "abcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghijabcdefghij123",
+      "category": "Business",
+      "subCategory": "Other",
+      "tags": [ "abcd", "efgh" ],
+      "serviceType": "One-off service",
+      "locationType": "On-site",
+      "startDate": "11/19/2023",
+      "endDate": "12/05/2023",
+      "avilableWeekTimes": [
+        {
+          "day": "Mon",
+          "startTime": "08:30AM",
+          "endTime": "05:30PM"
+        },
+        {
+          "day": "Sat",
+          "startTime": "10:30AM",
+          "endTime": "01:30PM"
+        }
+      ],
+      "skillTrade": "Skill-exchange",
+      "credit": "0",
+      "skillExchange": [ "hhhh", "iiii" ],
+      "workSample": "",
+      "active": "Hidden"
+    }
+  ]
+}

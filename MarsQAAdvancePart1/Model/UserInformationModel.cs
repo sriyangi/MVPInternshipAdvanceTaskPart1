@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace MarsQAAdvancePart1.Model
 {
-    internal class UserInformationModel
+    public class UserInformationModel
     {
+        public string userName { get; set; }
+        public string password { get; set; }
     }
 }
