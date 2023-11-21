@@ -1,0 +1,16 @@
+{
+  "SkillEditModel": [
+    {
+      "skill": "Writing 1",
+      "skillLevel": "Expert",
+      "oldSkill": "Writing",
+      "oldSkillLevel": "Beginner"
+    },
+    {
+      "skill": "Reading 1",
+      "skillLevel": "Beginner",
+      "oldSkill": "Reading",
+      "oldSkillLevel": "Expert"
+    }
+  ]
+}

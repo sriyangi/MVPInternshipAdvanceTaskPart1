@@ -1,0 +1,12 @@
+{
+  "LanguageModel": [
+    {
+      "language": "French",
+      "languageLevel": "Basic"
+    },
+    {
+      "language": "Chinese",
+      "languageLevel": "Native/Bilingual"
+    }
+  ]
+}
